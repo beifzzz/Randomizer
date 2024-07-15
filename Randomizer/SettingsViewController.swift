@@ -2,7 +2,7 @@
 //  SettingsViewController.swift
 //  Randomizer
 //
-//  Created by Arystan on 12.07.2024.
+//  Created by Arystan on 14.07.2024.
 //
 
 import UIKit
